@@ -35,13 +35,14 @@ TF-IDF: 정보 검색론 분야에서 사용하는 가중치를 구하는 알고
 (TF-IDF 폴더의 tf-idf.py 를 통해 [통해 뉴스 기사 수, 제목의 TF-IDF값, 본문의 TF-iDF값]  추출)
 
 추출된 값 예시:
+
 ![image](https://user-images.githubusercontent.com/86222639/146506689-4e3515f7-72b5-4b83-888e-19c6da51a5a2.png)
 
 # 머신러닝 실험
 
 로지스틱 회귀,나이브 베이즈,KNN,SVM,랜덤 포레스트,Extra Tree,AdaBoost,XGBoost 모델을 사용해 학습
 
-(machine learning/experiment.py 를 통해 싫험)
+(machine learning/experiment.py 를 통해 실험)
 
 # 결과
 
