@@ -26,7 +26,7 @@ XGBoost
 
 (crawling 폴더의 4개의 python file들)
 
-#데이터 전처리
+# 데이터 전처리
 
 TF-IDF: 정보 검색론 분야에서 사용하는 가중치를 구하는 알고리즘으로, 단어 빈도 수를 기반으로 가중치를 구한다.
 ![image](https://user-images.githubusercontent.com/86222639/146505868-b399301b-36d4-40c8-b9d4-ba7c497e5d01.png)
